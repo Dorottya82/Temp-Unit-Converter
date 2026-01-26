@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Munka\\Tapolcs\u00E1nyi Dorottya\\TempUnitConverter\\TempUnitConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFFE28F-DFBD-43BD-A9B3-C0AFCF3D7E60}|TempUnitConverter\\TempUnitConverter.csproj|d:\\munka\\tapolcs\u00E1nyi dorottya\\tempunitconverter\\tempunitconverter\\tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFFE28F-DFBD-43BD-A9B3-C0AFCF3D7E60}|TempUnitConverter\\TempUnitConverter.csproj|solutionrelative:tempunitconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFFE28F-DFBD-43BD-A9B3-C0AFCF3D7E60}|TempUnitConverter\\TempUnitConverter.csproj|d:\\munka\\tapolcs\u00E1nyi dorottya\\tempunitconverter\\tempunitconverter\\tempunitconverter\\tuconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFFE28F-DFBD-43BD-A9B3-C0AFCF3D7E60}|TempUnitConverter\\TempUnitConverter.csproj|solutionrelative:tempunitconverter\\tuconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TUConverter.cs",
+              "DocumentMoniker": "D:\\Munka\\Tapolcs\u00E1nyi Dorottya\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\TUConverter.cs",
+              "RelativeDocumentMoniker": "TempUnitConverter\\TUConverter.cs",
+              "ToolTip": "D:\\Munka\\Tapolcs\u00E1nyi Dorottya\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\TUConverter.cs",
+              "RelativeToolTip": "TempUnitConverter\\TUConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:03:04.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Munka\\Tapolcs\u00E1nyi Dorottya\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
+              "RelativeDocumentMoniker": "TempUnitConverter\\Program.cs",
+              "ToolTip": "D:\\Munka\\Tapolcs\u00E1nyi Dorottya\\TempUnitConverter\\TempUnitConverter\\TempUnitConverter\\Program.cs",
+              "RelativeToolTip": "TempUnitConverter\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:56:16.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
