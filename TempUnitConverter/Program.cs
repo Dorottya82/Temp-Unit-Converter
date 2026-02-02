@@ -46,7 +46,7 @@ namespace TempUnitConverter
             Console.WriteLine();
 
             Console.WriteLine($" {k}Kelvin = {result_KC} Celsius-fok");
-            Console.WriteLine($" {k}Kelvin = {result_KF} Fahrenheit");
+            Console.WriteLine($" {k}Kelvin = {result_KF:n2} Fahrenheit");
 
 
             Console.ReadKey();
