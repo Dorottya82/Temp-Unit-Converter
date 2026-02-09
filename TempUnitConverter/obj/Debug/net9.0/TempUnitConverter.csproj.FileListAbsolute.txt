@@ -12,3 +12,4 @@ D:\Munka\Tapolcsányi Dorottya\TempUnitConverter\TempUnitConverter\TempUnitConve
 D:\Munka\Tapolcsányi Dorottya\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.pdb
 D:\Munka\Tapolcsányi Dorottya\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.genruntimeconfig.cache
 D:\Munka\Tapolcsányi Dorottya\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\ref\TempUnitConverter.dll
+D:\Munka\Tapolcsányi Dorottya\TempUnitConverter\TempUnitConverter\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.sourcelink.json
